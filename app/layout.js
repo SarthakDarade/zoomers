@@ -12,7 +12,7 @@ const outfit = Outfit({
 });
 
 export const metadata = {
-  metadataBase: new URL('https://zoomers.store'),
+  metadataBase: new URL('https://zoomers.shop'),
   title: {
     default: "ZOOMERS | ARCHIVE SYSTEM",
     template: "%s | ZOOMERS ARCHIVE"
@@ -24,7 +24,7 @@ export const metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://zoomers.store",
+    url: "https://zoomers.shop",
     siteName: "ZOOMERS ARCHIVE",
     title: "ZOOMERS | ARCHIVE SYSTEM",
     description: "Advanced digital fashion artifacts. Engineered in London for the modern operator.",
